@@ -2,6 +2,9 @@
 data/
 backup/
 resources/
+.vscode
+.vscode/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -83,6 +86,7 @@ target/
 .ipynb_checkpoints
 .ipynb_checkpoints/*
 .ipynb_checkpoints/
+.ipynb_checkpoints/Stock_Regression-checkpoint.ipynb
 
 # IPython
 profile_default/
